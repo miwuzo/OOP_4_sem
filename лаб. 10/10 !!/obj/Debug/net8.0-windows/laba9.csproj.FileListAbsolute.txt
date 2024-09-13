@@ -1,0 +1,198 @@
+C:\Users\yana\OneDrive\Рабочий стол\laba9\obj\Debug\net8.0-windows\laba9.csproj.AssemblyReference.cache
+C:\Users\yana\OneDrive\Рабочий стол\laba9\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\yana\OneDrive\Рабочий стол\laba9\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\yana\OneDrive\Рабочий стол\laba9\obj\Debug\net8.0-windows\laba9_MarkupCompile.cache
+C:\Users\yana\OneDrive\Рабочий стол\laba9\obj\Debug\net8.0-windows\laba9_MarkupCompile.lref
+C:\Users\yana\OneDrive\Рабочий стол\laba9\bin\Debug\net8.0-windows\laba9.exe
+C:\Users\yana\OneDrive\Рабочий стол\laba9\bin\Debug\net8.0-windows\laba9.dll.config
+C:\Users\yana\OneDrive\Рабочий стол\laba9\bin\Debug\net8.0-windows\laba9.deps.json
+C:\Users\yana\OneDrive\Рабочий стол\laba9\bin\Debug\net8.0-windows\laba9.runtimeconfig.json
+C:\Users\yana\OneDrive\Рабочий стол\laba9\bin\Debug\net8.0-windows\laba9.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9\bin\Debug\net8.0-windows\laba9.pdb
+C:\Users\yana\OneDrive\Рабочий стол\laba9\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9\bin\Debug\net8.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9\obj\Debug\net8.0-windows\App.baml
+C:\Users\yana\OneDrive\Рабочий стол\laba9\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\yana\OneDrive\Рабочий стол\laba9\obj\Debug\net8.0-windows\laba9.g.resources
+C:\Users\yana\OneDrive\Рабочий стол\laba9\obj\Debug\net8.0-windows\laba9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yana\OneDrive\Рабочий стол\laba9\obj\Debug\net8.0-windows\laba9.AssemblyInfoInputs.cache
+C:\Users\yana\OneDrive\Рабочий стол\laba9\obj\Debug\net8.0-windows\laba9.AssemblyInfo.cs
+C:\Users\yana\OneDrive\Рабочий стол\laba9\obj\Debug\net8.0-windows\laba9.csproj.CoreCompileInputs.cache
+C:\Users\yana\OneDrive\Рабочий стол\laba9\obj\Debug\net8.0-windows\laba9.csproj.CopyComplete
+C:\Users\yana\OneDrive\Рабочий стол\laba9\obj\Debug\net8.0-windows\laba9.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9\obj\Debug\net8.0-windows\refint\laba9.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9\obj\Debug\net8.0-windows\laba9.pdb
+C:\Users\yana\OneDrive\Рабочий стол\laba9\obj\Debug\net8.0-windows\laba9.genruntimeconfig.cache
+C:\Users\yana\OneDrive\Рабочий стол\laba9\obj\Debug\net8.0-windows\ref\laba9.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9 — копия\bin\Debug\net8.0-windows\laba9.exe
+C:\Users\yana\OneDrive\Рабочий стол\laba9 — копия\bin\Debug\net8.0-windows\laba9.dll.config
+C:\Users\yana\OneDrive\Рабочий стол\laba9 — копия\bin\Debug\net8.0-windows\laba9.deps.json
+C:\Users\yana\OneDrive\Рабочий стол\laba9 — копия\bin\Debug\net8.0-windows\laba9.runtimeconfig.json
+C:\Users\yana\OneDrive\Рабочий стол\laba9 — копия\bin\Debug\net8.0-windows\laba9.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9 — копия\bin\Debug\net8.0-windows\laba9.pdb
+C:\Users\yana\OneDrive\Рабочий стол\laba9 — копия\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9 — копия\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9 — копия\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9 — копия\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9 — копия\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9 — копия\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9 — копия\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9 — копия\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9 — копия\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9 — копия\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9 — копия\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9 — копия\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9 — копия\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9 — копия\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9 — копия\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9 — копия\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9 — копия\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9 — копия\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9 — копия\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9 — копия\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9 — копия\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9 — копия\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9 — копия\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9 — копия\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9 — копия\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9 — копия\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9 — копия\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9 — копия\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9 — копия\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9 — копия\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9 — копия\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9 — копия\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9 — копия\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9 — копия\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9 — копия\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9 — копия\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9 — копия\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9 — копия\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9 — копия\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9 — копия\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9 — копия\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9 — копия\bin\Debug\net8.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9 — копия\obj\Debug\net8.0-windows\laba9.csproj.AssemblyReference.cache
+C:\Users\yana\OneDrive\Рабочий стол\laba9 — копия\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\yana\OneDrive\Рабочий стол\laba9 — копия\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\yana\OneDrive\Рабочий стол\laba9 — копия\obj\Debug\net8.0-windows\laba9_MarkupCompile.cache
+C:\Users\yana\OneDrive\Рабочий стол\laba9 — копия\obj\Debug\net8.0-windows\laba9_MarkupCompile.lref
+C:\Users\yana\OneDrive\Рабочий стол\laba9 — копия\obj\Debug\net8.0-windows\App.baml
+C:\Users\yana\OneDrive\Рабочий стол\laba9 — копия\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\yana\OneDrive\Рабочий стол\laba9 — копия\obj\Debug\net8.0-windows\laba9.g.resources
+C:\Users\yana\OneDrive\Рабочий стол\laba9 — копия\obj\Debug\net8.0-windows\laba9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yana\OneDrive\Рабочий стол\laba9 — копия\obj\Debug\net8.0-windows\laba9.AssemblyInfoInputs.cache
+C:\Users\yana\OneDrive\Рабочий стол\laba9 — копия\obj\Debug\net8.0-windows\laba9.AssemblyInfo.cs
+C:\Users\yana\OneDrive\Рабочий стол\laba9 — копия\obj\Debug\net8.0-windows\laba9.csproj.CoreCompileInputs.cache
+C:\Users\yana\OneDrive\Рабочий стол\laba9 — копия\obj\Debug\net8.0-windows\laba9.csproj.CopyComplete
+C:\Users\yana\OneDrive\Рабочий стол\laba9 — копия\obj\Debug\net8.0-windows\laba9.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9 — копия\obj\Debug\net8.0-windows\refint\laba9.dll
+C:\Users\yana\OneDrive\Рабочий стол\laba9 — копия\obj\Debug\net8.0-windows\laba9.pdb
+C:\Users\yana\OneDrive\Рабочий стол\laba9 — копия\obj\Debug\net8.0-windows\laba9.genruntimeconfig.cache
+C:\Users\yana\OneDrive\Рабочий стол\laba9 — копия\obj\Debug\net8.0-windows\ref\laba9.dll
+C:\Users\yana\OneDrive\Рабочий стол\10 !!\obj\Debug\net8.0-windows\laba9.csproj.AssemblyReference.cache
+C:\Users\yana\OneDrive\Рабочий стол\10 !!\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\yana\OneDrive\Рабочий стол\10 !!\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\yana\OneDrive\Рабочий стол\10 !!\obj\Debug\net8.0-windows\laba9_MarkupCompile.cache
+C:\Users\yana\OneDrive\Рабочий стол\10 !!\obj\Debug\net8.0-windows\laba9_MarkupCompile.lref
+C:\Users\yana\OneDrive\Рабочий стол\10 !!\obj\Debug\net8.0-windows\laba9.dll
+C:\Users\yana\OneDrive\Рабочий стол\10 !!\obj\Debug\net8.0-windows\refint\laba9.dll
+C:\Users\yana\OneDrive\Рабочий стол\10 !!\obj\Debug\net8.0-windows\laba9.pdb
+C:\Users\yana\OneDrive\Рабочий стол\10 !!\bin\Debug\net8.0-windows\laba9.exe
+C:\Users\yana\OneDrive\Рабочий стол\10 !!\bin\Debug\net8.0-windows\laba9.dll.config
+C:\Users\yana\OneDrive\Рабочий стол\10 !!\bin\Debug\net8.0-windows\laba9.deps.json
+C:\Users\yana\OneDrive\Рабочий стол\10 !!\bin\Debug\net8.0-windows\laba9.runtimeconfig.json
+C:\Users\yana\OneDrive\Рабочий стол\10 !!\bin\Debug\net8.0-windows\laba9.dll
+C:\Users\yana\OneDrive\Рабочий стол\10 !!\bin\Debug\net8.0-windows\laba9.pdb
+C:\Users\yana\OneDrive\Рабочий стол\10 !!\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\yana\OneDrive\Рабочий стол\10 !!\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\yana\OneDrive\Рабочий стол\10 !!\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\yana\OneDrive\Рабочий стол\10 !!\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\yana\OneDrive\Рабочий стол\10 !!\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\yana\OneDrive\Рабочий стол\10 !!\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\yana\OneDrive\Рабочий стол\10 !!\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\yana\OneDrive\Рабочий стол\10 !!\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\yana\OneDrive\Рабочий стол\10 !!\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\yana\OneDrive\Рабочий стол\10 !!\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\yana\OneDrive\Рабочий стол\10 !!\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\yana\OneDrive\Рабочий стол\10 !!\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\yana\OneDrive\Рабочий стол\10 !!\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\yana\OneDrive\Рабочий стол\10 !!\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\yana\OneDrive\Рабочий стол\10 !!\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\yana\OneDrive\Рабочий стол\10 !!\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\yana\OneDrive\Рабочий стол\10 !!\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\yana\OneDrive\Рабочий стол\10 !!\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\yana\OneDrive\Рабочий стол\10 !!\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\yana\OneDrive\Рабочий стол\10 !!\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\yana\OneDrive\Рабочий стол\10 !!\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\yana\OneDrive\Рабочий стол\10 !!\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\yana\OneDrive\Рабочий стол\10 !!\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\yana\OneDrive\Рабочий стол\10 !!\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\yana\OneDrive\Рабочий стол\10 !!\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\yana\OneDrive\Рабочий стол\10 !!\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\yana\OneDrive\Рабочий стол\10 !!\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\yana\OneDrive\Рабочий стол\10 !!\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\yana\OneDrive\Рабочий стол\10 !!\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\yana\OneDrive\Рабочий стол\10 !!\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\yana\OneDrive\Рабочий стол\10 !!\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\yana\OneDrive\Рабочий стол\10 !!\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\yana\OneDrive\Рабочий стол\10 !!\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\yana\OneDrive\Рабочий стол\10 !!\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\yana\OneDrive\Рабочий стол\10 !!\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\yana\OneDrive\Рабочий стол\10 !!\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\yana\OneDrive\Рабочий стол\10 !!\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\yana\OneDrive\Рабочий стол\10 !!\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yana\OneDrive\Рабочий стол\10 !!\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yana\OneDrive\Рабочий стол\10 !!\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yana\OneDrive\Рабочий стол\10 !!\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yana\OneDrive\Рабочий стол\10 !!\bin\Debug\net8.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\yana\OneDrive\Рабочий стол\10 !!\obj\Debug\net8.0-windows\App.baml
+C:\Users\yana\OneDrive\Рабочий стол\10 !!\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\yana\OneDrive\Рабочий стол\10 !!\obj\Debug\net8.0-windows\laba9.g.resources
+C:\Users\yana\OneDrive\Рабочий стол\10 !!\obj\Debug\net8.0-windows\laba9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yana\OneDrive\Рабочий стол\10 !!\obj\Debug\net8.0-windows\laba9.AssemblyInfoInputs.cache
+C:\Users\yana\OneDrive\Рабочий стол\10 !!\obj\Debug\net8.0-windows\laba9.AssemblyInfo.cs
+C:\Users\yana\OneDrive\Рабочий стол\10 !!\obj\Debug\net8.0-windows\laba9.csproj.CoreCompileInputs.cache
+C:\Users\yana\OneDrive\Рабочий стол\10 !!\obj\Debug\net8.0-windows\laba9.csproj.CopyComplete
+C:\Users\yana\OneDrive\Рабочий стол\10 !!\obj\Debug\net8.0-windows\laba9.genruntimeconfig.cache
+C:\Users\yana\OneDrive\Рабочий стол\10 !!\obj\Debug\net8.0-windows\ref\laba9.dll

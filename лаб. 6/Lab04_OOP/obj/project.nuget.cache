@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "UjEoW7haPoUjO6cuEGLy+LCSs1Q5AcD+EvXNIbGxnkOKh8jYwe7RVhhJw9A56xq/Q88FzATJMolNE/r2pjM0Sw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yana\\OneDrive\\Рабочий стол\\6 последняя\\Lab04_OOP\\Lab04_OOP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yana\\.nuget\\packages\\mahapps.metro.iconpacks\\4.11.0\\mahapps.metro.iconpacks.4.11.0.nupkg.sha512",
+    "C:\\Users\\yana\\.nuget\\packages\\materialdesigncolors\\1.2.7\\materialdesigncolors.1.2.7.nupkg.sha512",
+    "C:\\Users\\yana\\.nuget\\packages\\materialdesignthemes\\3.2.0\\materialdesignthemes.3.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

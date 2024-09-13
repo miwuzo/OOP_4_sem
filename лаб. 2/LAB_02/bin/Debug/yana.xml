@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<ArrayOfComputer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <computer>
+    <inprocessor>
+      <proizvoditel>й</proizvoditel>
+      <seria>ыы2</seria>
+      <model>й</model>
+      <kolvoyader>2</kolvoyader>
+      <chastota>2</chastota>
+      <maxchastota>3</maxchastota>
+      <razrarhitect>разр2</razrarhitect>
+      <razmkesha>234</razmkesha>
+    </inprocessor>
+    <processorr>ц</processorr>
+    <type>ноутбук</type>
+    <videocard>ц</videocard>
+    <sizeozy>32</sizeozy>
+    <typeozy>тип2</typeozy>
+    <sizedisk>3</sizedisk>
+    <typedisk>тип1</typedisk>
+    <data>2024-03-02T08:16:02.0651957+03:00</data>
+  </computer>
+  <computer>
+    <inprocessor>
+      <proizvoditel>цц</proizvoditel>
+      <seria>вв2</seria>
+      <model>цц</model>
+      <kolvoyader>3</kolvoyader>
+      <chastota>1</chastota>
+      <maxchastota>5</maxchastota>
+      <razrarhitect>разр1</razrarhitect>
+      <razmkesha>8</razmkesha>
+    </inprocessor>
+    <processorr>йй</processorr>
+    <type>рабочая станция</type>
+    <videocard>цц</videocard>
+    <sizeozy>31</sizeozy>
+    <typeozy>тип3</typeozy>
+    <sizedisk>4</sizedisk>
+    <typedisk>тип1</typedisk>
+    <data>2024-04-11T08:18:29</data>
+  </computer>
+</ArrayOfComputer>

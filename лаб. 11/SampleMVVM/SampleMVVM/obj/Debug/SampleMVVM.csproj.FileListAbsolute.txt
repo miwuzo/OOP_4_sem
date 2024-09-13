@@ -1,0 +1,217 @@
+C:\NATALLIA\Лекции\ООП_2\2016_лекции\Proj14CS\SampleMVVM\SampleMVVM\bin\Debug\SampleMVVM.exe
+C:\NATALLIA\Лекции\ООП_2\2016_лекции\Proj14CS\SampleMVVM\SampleMVVM\bin\Debug\SampleMVVM.pdb
+C:\NATALLIA\Лекции\ООП_2\2016_лекции\Proj14CS\SampleMVVM\SampleMVVM\obj\Debug\SampleMVVM.csprojResolveAssemblyReference.cache
+C:\NATALLIA\Лекции\ООП_2\2016_лекции\Proj14CS\SampleMVVM\SampleMVVM\obj\Debug\Views\MainView.g.cs
+C:\NATALLIA\Лекции\ООП_2\2016_лекции\Proj14CS\SampleMVVM\SampleMVVM\obj\Debug\App.g.cs
+C:\NATALLIA\Лекции\ООП_2\2016_лекции\Proj14CS\SampleMVVM\SampleMVVM\obj\Debug\SampleMVVM_MarkupCompile.cache
+C:\NATALLIA\Лекции\ООП_2\2016_лекции\Proj14CS\SampleMVVM\SampleMVVM\obj\Debug\SampleMVVM_MarkupCompile.lref
+C:\NATALLIA\Лекции\ООП_2\2016_лекции\Proj14CS\SampleMVVM\SampleMVVM\obj\Debug\Views\MainView.baml
+C:\NATALLIA\Лекции\ООП_2\2016_лекции\Proj14CS\SampleMVVM\SampleMVVM\obj\Debug\SampleMVVM.g.resources
+C:\NATALLIA\Лекции\ООП_2\2016_лекции\Proj14CS\SampleMVVM\SampleMVVM\obj\Debug\SampleMVVM.Properties.Resources.resources
+C:\NATALLIA\Лекции\ООП_2\2016_лекции\Proj14CS\SampleMVVM\SampleMVVM\obj\Debug\SampleMVVM.csproj.GenerateResource.Cache
+C:\NATALLIA\Лекции\ООП_2\2016_лекции\Proj14CS\SampleMVVM\SampleMVVM\obj\Debug\SampleMVVM.exe
+C:\NATALLIA\Лекции\ООП_2\2016_лекции\Proj14CS\SampleMVVM\SampleMVVM\obj\Debug\SampleMVVM.pdb
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\obj\Debug\SampleMVVM.csproj.AssemblyReference.cache
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\obj\Debug\Views\MainView.g.cs
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\obj\Debug\App.g.cs
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\obj\Debug\SampleMVVM_MarkupCompile.cache
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\obj\Debug\SampleMVVM_MarkupCompile.lref
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\obj\Debug\SampleMVVM.exe
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\obj\Debug\SampleMVVM.pdb
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\SampleMVVM.exe
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\SampleMVVM.pdb
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\obj\Debug\Views\MainView.baml
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\obj\Debug\SampleMVVM.g.resources
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\obj\Debug\SampleMVVM.Properties.Resources.resources
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\obj\Debug\SampleMVVM.csproj.GenerateResource.cache
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\obj\Debug\SampleMVVM.csproj.CoreCompileInputs.cache
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\SampleMVVM.exe.config
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.Extensions.Options.dll
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\System.Buffers.dll
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\System.Collections.Immutable.dll
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\System.ComponentModel.Annotations.dll
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\System.Memory.dll
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\System.Numerics.Vectors.dll
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.EntityFrameworkCore.xml
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.Extensions.Options.xml
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\System.Buffers.xml
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\System.Collections.Immutable.xml
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\System.Memory.xml
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\System.Numerics.Vectors.xml
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\obj\Debug\SampleMVVM.csproj.Up2Date
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.Identity.Client.dll
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\Newtonsoft.Json.dll
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.Data.SqlClient.pdb
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.Identity.Client.xml
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\Newtonsoft.Json.xml
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\MaterialDesignColors.dll
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\MaterialDesignColors.pdb
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\4_SEM_LABS\OOP\SampleMVVM\SampleMVVM\obj\Debug\App.baml
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\SampleMVVM.exe.config
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\SampleMVVM.exe
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\SampleMVVM.pdb
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\MaterialDesignColors.dll
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\Newtonsoft.Json.dll
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\System.Buffers.dll
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\System.Collections.Immutable.dll
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\System.Memory.dll
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\MaterialDesignColors.pdb
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\Newtonsoft.Json.xml
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\System.Buffers.xml
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\System.Collections.Immutable.xml
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\System.Memory.xml
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\obj\Debug\SampleMVVM.csproj.AssemblyReference.cache
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\obj\Debug\App.baml
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\obj\Debug\Views\MainView.g.cs
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\obj\Debug\App.g.cs
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\obj\Debug\SampleMVVM_MarkupCompile.cache
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\obj\Debug\SampleMVVM_MarkupCompile.lref
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\obj\Debug\Views\MainView.baml
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\obj\Debug\SampleMVVM.g.resources
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\obj\Debug\SampleMVVM.Properties.Resources.resources
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\obj\Debug\SampleMVVM.csproj.GenerateResource.cache
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\obj\Debug\SampleMVVM.csproj.CoreCompileInputs.cache
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\obj\Debug\SampleMVVM.csproj.CopyComplete
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\obj\Debug\SampleMVVM.exe
+C:\Users\yana\OneDrive\Рабочий стол\SampleMVVM\SampleMVVM\obj\Debug\SampleMVVM.pdb

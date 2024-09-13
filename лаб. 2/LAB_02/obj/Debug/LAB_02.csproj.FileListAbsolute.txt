@@ -1,0 +1,18 @@
+C:\Users\yana\Desktop\LAB_02\bin\Debug\LAB_02.exe.config
+C:\Users\yana\Desktop\LAB_02\bin\Debug\LAB_02.exe
+C:\Users\yana\Desktop\LAB_02\bin\Debug\LAB_02.pdb
+C:\Users\yana\Desktop\LAB_02\obj\Debug\LAB_02.csproj.AssemblyReference.cache
+C:\Users\yana\Desktop\LAB_02\obj\Debug\LAB_02.Form1.resources
+C:\Users\yana\Desktop\LAB_02\obj\Debug\LAB_02.Properties.Resources.resources
+C:\Users\yana\Desktop\LAB_02\obj\Debug\LAB_02.csproj.GenerateResource.cache
+C:\Users\yana\Desktop\LAB_02\obj\Debug\LAB_02.csproj.CoreCompileInputs.cache
+C:\Users\yana\Desktop\LAB_02\obj\Debug\LAB_02.exe
+C:\Users\yana\Desktop\LAB_02\obj\Debug\LAB_02.pdb
+Y:\IV\ооп\лаб. 2\LAB_02\obj\Debug\LAB_02.csproj.AssemblyReference.cache
+Y:\IV\ооп\лаб. 2\LAB_02\obj\Debug\LAB_02.Form1.resources
+Y:\IV\ооп\лаб. 2\LAB_02\obj\Debug\LAB_02.Properties.Resources.resources
+Y:\IV\ооп\лаб. 2\LAB_02\obj\Debug\LAB_02.csproj.GenerateResource.cache
+Y:\IV\ооп\лаб. 2\LAB_02\obj\Debug\LAB_02.csproj.CoreCompileInputs.cache
+Y:\IV\ооп\лаб. 2\LAB_02\obj\Debug\LAB_02.exe
+Y:\IV\ооп\лаб. 2\LAB_02\obj\Debug\LAB_02.pdb
+Y:\IV\ооп\лаб. 2\LAB_02\obj\Debug\LAB_02.Form2.resources

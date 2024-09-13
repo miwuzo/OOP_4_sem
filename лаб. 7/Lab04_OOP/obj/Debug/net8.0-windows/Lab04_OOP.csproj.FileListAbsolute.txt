@@ -1,0 +1,261 @@
+C:\Users\yana\OneDrive\Рабочий стол\Lab04_OOP\bin\Debug\net8.0-windows\Lab04_OOP.exe
+C:\Users\yana\OneDrive\Рабочий стол\Lab04_OOP\bin\Debug\net8.0-windows\Lab04_OOP.deps.json
+C:\Users\yana\OneDrive\Рабочий стол\Lab04_OOP\bin\Debug\net8.0-windows\Lab04_OOP.runtimeconfig.json
+C:\Users\yana\OneDrive\Рабочий стол\Lab04_OOP\bin\Debug\net8.0-windows\Lab04_OOP.dll
+C:\Users\yana\OneDrive\Рабочий стол\Lab04_OOP\bin\Debug\net8.0-windows\Lab04_OOP.pdb
+C:\Users\yana\OneDrive\Рабочий стол\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.BootstrapIcons.dll
+C:\Users\yana\OneDrive\Рабочий стол\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\yana\OneDrive\Рабочий стол\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Codicons.dll
+C:\Users\yana\OneDrive\Рабочий стол\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Coolicons.dll
+C:\Users\yana\OneDrive\Рабочий стол\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\yana\OneDrive\Рабочий стол\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\yana\OneDrive\Рабочий стол\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\yana\OneDrive\Рабочий стол\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\yana\OneDrive\Рабочий стол\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FileIcons.dll
+C:\Users\yana\OneDrive\Рабочий стол\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\yana\OneDrive\Рабочий стол\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Fontaudio.dll
+C:\Users\yana\OneDrive\Рабочий стол\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Fontisto.dll
+C:\Users\yana\OneDrive\Рабочий стол\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.ForkAwesome.dll
+C:\Users\yana\OneDrive\Рабочий стол\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\yana\OneDrive\Рабочий стол\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\yana\OneDrive\Рабочий стол\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\yana\OneDrive\Рабочий стол\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\yana\OneDrive\Рабочий стол\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\yana\OneDrive\Рабочий стол\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\yana\OneDrive\Рабочий стол\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\yana\OneDrive\Рабочий стол\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\yana\OneDrive\Рабочий стол\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\yana\OneDrive\Рабочий стол\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.PixelartIcons.dll
+C:\Users\yana\OneDrive\Рабочий стол\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\yana\OneDrive\Рабочий стол\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.RadixIcons.dll
+C:\Users\yana\OneDrive\Рабочий стол\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.RemixIcon.dll
+C:\Users\yana\OneDrive\Рабочий стол\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\yana\OneDrive\Рабочий стол\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\yana\OneDrive\Рабочий стол\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\yana\OneDrive\Рабочий стол\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.VaadinIcons.dll
+C:\Users\yana\OneDrive\Рабочий стол\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\yana\OneDrive\Рабочий стол\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\yana\OneDrive\Рабочий стол\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.dll
+C:\Users\yana\OneDrive\Рабочий стол\Lab04_OOP\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\yana\OneDrive\Рабочий стол\Lab04_OOP\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\yana\OneDrive\Рабочий стол\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP.csproj.AssemblyReference.cache
+C:\Users\yana\OneDrive\Рабочий стол\Lab04_OOP\obj\Debug\net8.0-windows\resources.en.baml
+C:\Users\yana\OneDrive\Рабочий стол\Lab04_OOP\obj\Debug\net8.0-windows\resources.ru.baml
+C:\Users\yana\OneDrive\Рабочий стол\Lab04_OOP\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\yana\OneDrive\Рабочий стол\Lab04_OOP\obj\Debug\net8.0-windows\Models\InputProduct.g.cs
+C:\Users\yana\OneDrive\Рабочий стол\Lab04_OOP\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\yana\OneDrive\Рабочий стол\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP_MarkupCompile.cache
+C:\Users\yana\OneDrive\Рабочий стол\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP_MarkupCompile.lref
+C:\Users\yana\OneDrive\Рабочий стол\Lab04_OOP\obj\Debug\net8.0-windows\App.baml
+C:\Users\yana\OneDrive\Рабочий стол\Lab04_OOP\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\yana\OneDrive\Рабочий стол\Lab04_OOP\obj\Debug\net8.0-windows\Models\InputProduct.baml
+C:\Users\yana\OneDrive\Рабочий стол\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP.g.resources
+C:\Users\yana\OneDrive\Рабочий стол\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yana\OneDrive\Рабочий стол\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP.AssemblyInfoInputs.cache
+C:\Users\yana\OneDrive\Рабочий стол\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP.AssemblyInfo.cs
+C:\Users\yana\OneDrive\Рабочий стол\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP.csproj.CoreCompileInputs.cache
+C:\Users\yana\OneDrive\Рабочий стол\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP.csproj.CopyComplete
+C:\Users\yana\OneDrive\Рабочий стол\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP.dll
+C:\Users\yana\OneDrive\Рабочий стол\Lab04_OOP\obj\Debug\net8.0-windows\refint\Lab04_OOP.dll
+C:\Users\yana\OneDrive\Рабочий стол\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP.pdb
+C:\Users\yana\OneDrive\Рабочий стол\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP.genruntimeconfig.cache
+C:\Users\yana\OneDrive\Рабочий стол\Lab04_OOP\obj\Debug\net8.0-windows\ref\Lab04_OOP.dll
+C:\Users\yana\OneDrive\Рабочий стол\4-5 ООП  готовая\Lab04_OOP\bin\Debug\net8.0-windows\Lab04_OOP.exe
+C:\Users\yana\OneDrive\Рабочий стол\4-5 ООП  готовая\Lab04_OOP\bin\Debug\net8.0-windows\Lab04_OOP.deps.json
+C:\Users\yana\OneDrive\Рабочий стол\4-5 ООП  готовая\Lab04_OOP\bin\Debug\net8.0-windows\Lab04_OOP.runtimeconfig.json
+C:\Users\yana\OneDrive\Рабочий стол\4-5 ООП  готовая\Lab04_OOP\bin\Debug\net8.0-windows\Lab04_OOP.dll
+C:\Users\yana\OneDrive\Рабочий стол\4-5 ООП  готовая\Lab04_OOP\bin\Debug\net8.0-windows\Lab04_OOP.pdb
+C:\Users\yana\OneDrive\Рабочий стол\4-5 ООП  готовая\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.BootstrapIcons.dll
+C:\Users\yana\OneDrive\Рабочий стол\4-5 ООП  готовая\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\yana\OneDrive\Рабочий стол\4-5 ООП  готовая\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Codicons.dll
+C:\Users\yana\OneDrive\Рабочий стол\4-5 ООП  готовая\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Coolicons.dll
+C:\Users\yana\OneDrive\Рабочий стол\4-5 ООП  готовая\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\yana\OneDrive\Рабочий стол\4-5 ООП  готовая\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\yana\OneDrive\Рабочий стол\4-5 ООП  готовая\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\yana\OneDrive\Рабочий стол\4-5 ООП  готовая\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\yana\OneDrive\Рабочий стол\4-5 ООП  готовая\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FileIcons.dll
+C:\Users\yana\OneDrive\Рабочий стол\4-5 ООП  готовая\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\yana\OneDrive\Рабочий стол\4-5 ООП  готовая\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Fontaudio.dll
+C:\Users\yana\OneDrive\Рабочий стол\4-5 ООП  готовая\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Fontisto.dll
+C:\Users\yana\OneDrive\Рабочий стол\4-5 ООП  готовая\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.ForkAwesome.dll
+C:\Users\yana\OneDrive\Рабочий стол\4-5 ООП  готовая\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\yana\OneDrive\Рабочий стол\4-5 ООП  готовая\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\yana\OneDrive\Рабочий стол\4-5 ООП  готовая\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\yana\OneDrive\Рабочий стол\4-5 ООП  готовая\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\yana\OneDrive\Рабочий стол\4-5 ООП  готовая\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\yana\OneDrive\Рабочий стол\4-5 ООП  готовая\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\yana\OneDrive\Рабочий стол\4-5 ООП  готовая\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\yana\OneDrive\Рабочий стол\4-5 ООП  готовая\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\yana\OneDrive\Рабочий стол\4-5 ООП  готовая\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\yana\OneDrive\Рабочий стол\4-5 ООП  готовая\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.PixelartIcons.dll
+C:\Users\yana\OneDrive\Рабочий стол\4-5 ООП  готовая\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\yana\OneDrive\Рабочий стол\4-5 ООП  готовая\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.RadixIcons.dll
+C:\Users\yana\OneDrive\Рабочий стол\4-5 ООП  готовая\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.RemixIcon.dll
+C:\Users\yana\OneDrive\Рабочий стол\4-5 ООП  готовая\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\yana\OneDrive\Рабочий стол\4-5 ООП  готовая\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\yana\OneDrive\Рабочий стол\4-5 ООП  готовая\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\yana\OneDrive\Рабочий стол\4-5 ООП  готовая\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.VaadinIcons.dll
+C:\Users\yana\OneDrive\Рабочий стол\4-5 ООП  готовая\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\yana\OneDrive\Рабочий стол\4-5 ООП  готовая\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\yana\OneDrive\Рабочий стол\4-5 ООП  готовая\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.dll
+C:\Users\yana\OneDrive\Рабочий стол\4-5 ООП  готовая\Lab04_OOP\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\yana\OneDrive\Рабочий стол\4-5 ООП  готовая\Lab04_OOP\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\yana\OneDrive\Рабочий стол\4-5 ООП  готовая\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP.csproj.AssemblyReference.cache
+C:\Users\yana\OneDrive\Рабочий стол\4-5 ООП  готовая\Lab04_OOP\obj\Debug\net8.0-windows\resources.en.baml
+C:\Users\yana\OneDrive\Рабочий стол\4-5 ООП  готовая\Lab04_OOP\obj\Debug\net8.0-windows\resources.ru.baml
+C:\Users\yana\OneDrive\Рабочий стол\4-5 ООП  готовая\Lab04_OOP\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\yana\OneDrive\Рабочий стол\4-5 ООП  готовая\Lab04_OOP\obj\Debug\net8.0-windows\Models\InputProduct.g.cs
+C:\Users\yana\OneDrive\Рабочий стол\4-5 ООП  готовая\Lab04_OOP\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\yana\OneDrive\Рабочий стол\4-5 ООП  готовая\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP_MarkupCompile.cache
+C:\Users\yana\OneDrive\Рабочий стол\4-5 ООП  готовая\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP_MarkupCompile.lref
+C:\Users\yana\OneDrive\Рабочий стол\4-5 ООП  готовая\Lab04_OOP\obj\Debug\net8.0-windows\App.baml
+C:\Users\yana\OneDrive\Рабочий стол\4-5 ООП  готовая\Lab04_OOP\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\yana\OneDrive\Рабочий стол\4-5 ООП  готовая\Lab04_OOP\obj\Debug\net8.0-windows\Models\InputProduct.baml
+C:\Users\yana\OneDrive\Рабочий стол\4-5 ООП  готовая\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP.g.resources
+C:\Users\yana\OneDrive\Рабочий стол\4-5 ООП  готовая\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yana\OneDrive\Рабочий стол\4-5 ООП  готовая\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP.AssemblyInfoInputs.cache
+C:\Users\yana\OneDrive\Рабочий стол\4-5 ООП  готовая\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP.AssemblyInfo.cs
+C:\Users\yana\OneDrive\Рабочий стол\4-5 ООП  готовая\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP.csproj.CoreCompileInputs.cache
+C:\Users\yana\OneDrive\Рабочий стол\4-5 ООП  готовая\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP.csproj.CopyComplete
+C:\Users\yana\OneDrive\Рабочий стол\4-5 ООП  готовая\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP.dll
+C:\Users\yana\OneDrive\Рабочий стол\4-5 ООП  готовая\Lab04_OOP\obj\Debug\net8.0-windows\refint\Lab04_OOP.dll
+C:\Users\yana\OneDrive\Рабочий стол\4-5 ООП  готовая\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP.pdb
+C:\Users\yana\OneDrive\Рабочий стол\4-5 ООП  готовая\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP.genruntimeconfig.cache
+C:\Users\yana\OneDrive\Рабочий стол\4-5 ООП  готовая\Lab04_OOP\obj\Debug\net8.0-windows\ref\Lab04_OOP.dll
+C:\Users\yana\OneDrive\Рабочий стол\Lab04_OOP\obj\Debug\net8.0-windows\CustomControl\User.g.cs
+C:\Users\yana\OneDrive\Рабочий стол\Lab04_OOP\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\yana\OneDrive\Рабочий стол\Lab04_OOP\obj\Debug\net8.0-windows\CustomControl\User.baml
+C:\Users\yana\OneDrive\Рабочий стол\6 последняя\Lab04_OOP\bin\Debug\net8.0-windows\Lab04_OOP.exe
+C:\Users\yana\OneDrive\Рабочий стол\6 последняя\Lab04_OOP\bin\Debug\net8.0-windows\Lab04_OOP.deps.json
+C:\Users\yana\OneDrive\Рабочий стол\6 последняя\Lab04_OOP\bin\Debug\net8.0-windows\Lab04_OOP.runtimeconfig.json
+C:\Users\yana\OneDrive\Рабочий стол\6 последняя\Lab04_OOP\bin\Debug\net8.0-windows\Lab04_OOP.dll
+C:\Users\yana\OneDrive\Рабочий стол\6 последняя\Lab04_OOP\bin\Debug\net8.0-windows\Lab04_OOP.pdb
+C:\Users\yana\OneDrive\Рабочий стол\6 последняя\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.BootstrapIcons.dll
+C:\Users\yana\OneDrive\Рабочий стол\6 последняя\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\yana\OneDrive\Рабочий стол\6 последняя\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Codicons.dll
+C:\Users\yana\OneDrive\Рабочий стол\6 последняя\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Coolicons.dll
+C:\Users\yana\OneDrive\Рабочий стол\6 последняя\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\yana\OneDrive\Рабочий стол\6 последняя\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\yana\OneDrive\Рабочий стол\6 последняя\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\yana\OneDrive\Рабочий стол\6 последняя\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\yana\OneDrive\Рабочий стол\6 последняя\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FileIcons.dll
+C:\Users\yana\OneDrive\Рабочий стол\6 последняя\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\yana\OneDrive\Рабочий стол\6 последняя\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Fontaudio.dll
+C:\Users\yana\OneDrive\Рабочий стол\6 последняя\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Fontisto.dll
+C:\Users\yana\OneDrive\Рабочий стол\6 последняя\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.ForkAwesome.dll
+C:\Users\yana\OneDrive\Рабочий стол\6 последняя\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\yana\OneDrive\Рабочий стол\6 последняя\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\yana\OneDrive\Рабочий стол\6 последняя\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\yana\OneDrive\Рабочий стол\6 последняя\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\yana\OneDrive\Рабочий стол\6 последняя\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\yana\OneDrive\Рабочий стол\6 последняя\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\yana\OneDrive\Рабочий стол\6 последняя\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\yana\OneDrive\Рабочий стол\6 последняя\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\yana\OneDrive\Рабочий стол\6 последняя\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\yana\OneDrive\Рабочий стол\6 последняя\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.PixelartIcons.dll
+C:\Users\yana\OneDrive\Рабочий стол\6 последняя\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\yana\OneDrive\Рабочий стол\6 последняя\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.RadixIcons.dll
+C:\Users\yana\OneDrive\Рабочий стол\6 последняя\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.RemixIcon.dll
+C:\Users\yana\OneDrive\Рабочий стол\6 последняя\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\yana\OneDrive\Рабочий стол\6 последняя\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\yana\OneDrive\Рабочий стол\6 последняя\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\yana\OneDrive\Рабочий стол\6 последняя\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.VaadinIcons.dll
+C:\Users\yana\OneDrive\Рабочий стол\6 последняя\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\yana\OneDrive\Рабочий стол\6 последняя\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\yana\OneDrive\Рабочий стол\6 последняя\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.dll
+C:\Users\yana\OneDrive\Рабочий стол\6 последняя\Lab04_OOP\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\yana\OneDrive\Рабочий стол\6 последняя\Lab04_OOP\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\yana\OneDrive\Рабочий стол\6 последняя\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP.csproj.AssemblyReference.cache
+C:\Users\yana\OneDrive\Рабочий стол\6 последняя\Lab04_OOP\obj\Debug\net8.0-windows\resources.en.baml
+C:\Users\yana\OneDrive\Рабочий стол\6 последняя\Lab04_OOP\obj\Debug\net8.0-windows\resources.ru.baml
+C:\Users\yana\OneDrive\Рабочий стол\6 последняя\Lab04_OOP\obj\Debug\net8.0-windows\CustomControl\User.g.cs
+C:\Users\yana\OneDrive\Рабочий стол\6 последняя\Lab04_OOP\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\yana\OneDrive\Рабочий стол\6 последняя\Lab04_OOP\obj\Debug\net8.0-windows\Models\InputProduct.g.cs
+C:\Users\yana\OneDrive\Рабочий стол\6 последняя\Lab04_OOP\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\yana\OneDrive\Рабочий стол\6 последняя\Lab04_OOP\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\yana\OneDrive\Рабочий стол\6 последняя\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP_MarkupCompile.cache
+C:\Users\yana\OneDrive\Рабочий стол\6 последняя\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP_MarkupCompile.lref
+C:\Users\yana\OneDrive\Рабочий стол\6 последняя\Lab04_OOP\obj\Debug\net8.0-windows\App.baml
+C:\Users\yana\OneDrive\Рабочий стол\6 последняя\Lab04_OOP\obj\Debug\net8.0-windows\CustomControl\User.baml
+C:\Users\yana\OneDrive\Рабочий стол\6 последняя\Lab04_OOP\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\yana\OneDrive\Рабочий стол\6 последняя\Lab04_OOP\obj\Debug\net8.0-windows\Models\InputProduct.baml
+C:\Users\yana\OneDrive\Рабочий стол\6 последняя\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP.g.resources
+C:\Users\yana\OneDrive\Рабочий стол\6 последняя\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yana\OneDrive\Рабочий стол\6 последняя\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP.AssemblyInfoInputs.cache
+C:\Users\yana\OneDrive\Рабочий стол\6 последняя\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP.AssemblyInfo.cs
+C:\Users\yana\OneDrive\Рабочий стол\6 последняя\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP.csproj.CoreCompileInputs.cache
+C:\Users\yana\OneDrive\Рабочий стол\6 последняя\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP.csproj.CopyComplete
+C:\Users\yana\OneDrive\Рабочий стол\6 последняя\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP.dll
+C:\Users\yana\OneDrive\Рабочий стол\6 последняя\Lab04_OOP\obj\Debug\net8.0-windows\refint\Lab04_OOP.dll
+C:\Users\yana\OneDrive\Рабочий стол\6 последняя\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP.pdb
+C:\Users\yana\OneDrive\Рабочий стол\6 последняя\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP.genruntimeconfig.cache
+C:\Users\yana\OneDrive\Рабочий стол\6 последняя\Lab04_OOP\obj\Debug\net8.0-windows\ref\Lab04_OOP.dll
+C:\Users\yana\OneDrive\Рабочий стол\Lab04_OOP\obj\Debug\net8.0-windows\CustomControl\CustomFiltr.g.cs
+C:\Users\yana\OneDrive\Рабочий стол\Lab04_OOP\obj\Debug\net8.0-windows\CustomControl\CustomFiltr.baml
+Y:\IV\ооп\лаб. 7\Lab04_OOP\bin\Debug\net8.0-windows\Lab04_OOP.exe
+Y:\IV\ооп\лаб. 7\Lab04_OOP\bin\Debug\net8.0-windows\Lab04_OOP.deps.json
+Y:\IV\ооп\лаб. 7\Lab04_OOP\bin\Debug\net8.0-windows\Lab04_OOP.runtimeconfig.json
+Y:\IV\ооп\лаб. 7\Lab04_OOP\bin\Debug\net8.0-windows\Lab04_OOP.dll
+Y:\IV\ооп\лаб. 7\Lab04_OOP\bin\Debug\net8.0-windows\Lab04_OOP.pdb
+Y:\IV\ооп\лаб. 7\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.BootstrapIcons.dll
+Y:\IV\ооп\лаб. 7\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.BoxIcons.dll
+Y:\IV\ооп\лаб. 7\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Codicons.dll
+Y:\IV\ооп\лаб. 7\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Coolicons.dll
+Y:\IV\ооп\лаб. 7\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Core.dll
+Y:\IV\ооп\лаб. 7\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Entypo.dll
+Y:\IV\ооп\лаб. 7\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.EvaIcons.dll
+Y:\IV\ооп\лаб. 7\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FeatherIcons.dll
+Y:\IV\ооп\лаб. 7\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FileIcons.dll
+Y:\IV\ооп\лаб. 7\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FontAwesome.dll
+Y:\IV\ооп\лаб. 7\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Fontaudio.dll
+Y:\IV\ооп\лаб. 7\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Fontisto.dll
+Y:\IV\ооп\лаб. 7\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.ForkAwesome.dll
+Y:\IV\ооп\лаб. 7\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Ionicons.dll
+Y:\IV\ооп\лаб. 7\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.JamIcons.dll
+Y:\IV\ооп\лаб. 7\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Material.dll
+Y:\IV\ооп\лаб. 7\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.MaterialDesign.dll
+Y:\IV\ооп\лаб. 7\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.MaterialLight.dll
+Y:\IV\ооп\лаб. 7\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Microns.dll
+Y:\IV\ооп\лаб. 7\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Modern.dll
+Y:\IV\ооп\лаб. 7\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Octicons.dll
+Y:\IV\ооп\лаб. 7\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.PicolIcons.dll
+Y:\IV\ооп\лаб. 7\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.PixelartIcons.dll
+Y:\IV\ооп\лаб. 7\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.RPGAwesome.dll
+Y:\IV\ооп\лаб. 7\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.RadixIcons.dll
+Y:\IV\ооп\лаб. 7\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.RemixIcon.dll
+Y:\IV\ооп\лаб. 7\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.SimpleIcons.dll
+Y:\IV\ооп\лаб. 7\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Typicons.dll
+Y:\IV\ооп\лаб. 7\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Unicons.dll
+Y:\IV\ооп\лаб. 7\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.VaadinIcons.dll
+Y:\IV\ооп\лаб. 7\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.WeatherIcons.dll
+Y:\IV\ооп\лаб. 7\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Zondicons.dll
+Y:\IV\ооп\лаб. 7\Lab04_OOP\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.dll
+Y:\IV\ооп\лаб. 7\Lab04_OOP\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+Y:\IV\ооп\лаб. 7\Lab04_OOP\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+Y:\IV\ооп\лаб. 7\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP.csproj.AssemblyReference.cache
+Y:\IV\ооп\лаб. 7\Lab04_OOP\obj\Debug\net8.0-windows\resources.en.baml
+Y:\IV\ооп\лаб. 7\Lab04_OOP\obj\Debug\net8.0-windows\resources.ru.baml
+Y:\IV\ооп\лаб. 7\Lab04_OOP\obj\Debug\net8.0-windows\CustomControl\CustomFiltr.g.cs
+Y:\IV\ооп\лаб. 7\Lab04_OOP\obj\Debug\net8.0-windows\CustomControl\User.g.cs
+Y:\IV\ооп\лаб. 7\Lab04_OOP\obj\Debug\net8.0-windows\MainWindow.g.cs
+Y:\IV\ооп\лаб. 7\Lab04_OOP\obj\Debug\net8.0-windows\Models\InputProduct.g.cs
+Y:\IV\ооп\лаб. 7\Lab04_OOP\obj\Debug\net8.0-windows\App.g.cs
+Y:\IV\ооп\лаб. 7\Lab04_OOP\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+Y:\IV\ооп\лаб. 7\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP_MarkupCompile.cache
+Y:\IV\ооп\лаб. 7\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP_MarkupCompile.lref
+Y:\IV\ооп\лаб. 7\Lab04_OOP\obj\Debug\net8.0-windows\App.baml
+Y:\IV\ооп\лаб. 7\Lab04_OOP\obj\Debug\net8.0-windows\CustomControl\CustomFiltr.baml
+Y:\IV\ооп\лаб. 7\Lab04_OOP\obj\Debug\net8.0-windows\CustomControl\User.baml
+Y:\IV\ооп\лаб. 7\Lab04_OOP\obj\Debug\net8.0-windows\MainWindow.baml
+Y:\IV\ооп\лаб. 7\Lab04_OOP\obj\Debug\net8.0-windows\Models\InputProduct.baml
+Y:\IV\ооп\лаб. 7\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP.g.resources
+Y:\IV\ооп\лаб. 7\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP.GeneratedMSBuildEditorConfig.editorconfig
+Y:\IV\ооп\лаб. 7\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP.AssemblyInfoInputs.cache
+Y:\IV\ооп\лаб. 7\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP.AssemblyInfo.cs
+Y:\IV\ооп\лаб. 7\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP.csproj.CoreCompileInputs.cache
+Y:\IV\ооп\лаб. 7\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP.csproj.CopyComplete
+Y:\IV\ооп\лаб. 7\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP.dll
+Y:\IV\ооп\лаб. 7\Lab04_OOP\obj\Debug\net8.0-windows\refint\Lab04_OOP.dll
+Y:\IV\ооп\лаб. 7\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP.pdb
+Y:\IV\ооп\лаб. 7\Lab04_OOP\obj\Debug\net8.0-windows\Lab04_OOP.genruntimeconfig.cache
+Y:\IV\ооп\лаб. 7\Lab04_OOP\obj\Debug\net8.0-windows\ref\Lab04_OOP.dll

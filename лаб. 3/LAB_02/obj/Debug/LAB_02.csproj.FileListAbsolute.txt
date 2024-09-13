@@ -1,0 +1,34 @@
+C:\Users\yana\Desktop\LAB_02\bin\Debug\LAB_02.exe.config
+C:\Users\yana\Desktop\LAB_02\bin\Debug\LAB_02.exe
+C:\Users\yana\Desktop\LAB_02\bin\Debug\LAB_02.pdb
+C:\Users\yana\Desktop\LAB_02\obj\Debug\LAB_02.csproj.AssemblyReference.cache
+C:\Users\yana\Desktop\LAB_02\obj\Debug\LAB_02.Form1.resources
+C:\Users\yana\Desktop\LAB_02\obj\Debug\LAB_02.Properties.Resources.resources
+C:\Users\yana\Desktop\LAB_02\obj\Debug\LAB_02.csproj.GenerateResource.cache
+C:\Users\yana\Desktop\LAB_02\obj\Debug\LAB_02.csproj.CoreCompileInputs.cache
+C:\Users\yana\Desktop\LAB_02\obj\Debug\LAB_02.exe
+C:\Users\yana\Desktop\LAB_02\obj\Debug\LAB_02.pdb
+C:\Users\yana\Desktop\LAB_02\obj\Debug\LAB_02.FormFind.resources
+C:\Users\yana\OneDrive\Рабочий стол\LAB_02\bin\Debug\LAB_02.exe.config
+C:\Users\yana\OneDrive\Рабочий стол\LAB_02\bin\Debug\LAB_02.exe
+C:\Users\yana\OneDrive\Рабочий стол\LAB_02\bin\Debug\LAB_02.pdb
+C:\Users\yana\OneDrive\Рабочий стол\LAB_02\obj\Debug\LAB_02.csproj.AssemblyReference.cache
+C:\Users\yana\OneDrive\Рабочий стол\LAB_02\obj\Debug\LAB_02.Form1.resources
+C:\Users\yana\OneDrive\Рабочий стол\LAB_02\obj\Debug\LAB_02.FormFind.resources
+C:\Users\yana\OneDrive\Рабочий стол\LAB_02\obj\Debug\LAB_02.Properties.Resources.resources
+C:\Users\yana\OneDrive\Рабочий стол\LAB_02\obj\Debug\LAB_02.csproj.GenerateResource.cache
+C:\Users\yana\OneDrive\Рабочий стол\LAB_02\obj\Debug\LAB_02.csproj.CoreCompileInputs.cache
+C:\Users\yana\OneDrive\Рабочий стол\LAB_02\obj\Debug\LAB_02.exe
+C:\Users\yana\OneDrive\Рабочий стол\LAB_02\obj\Debug\LAB_02.pdb
+C:\Users\yana\OneDrive\Рабочий стол\LAB_02\bin\Debug\System.Text.Json.dll
+C:\Users\yana\OneDrive\Рабочий стол\LAB_02\bin\Debug\System.Memory.dll
+C:\Users\yana\OneDrive\Рабочий стол\LAB_02\bin\Debug\System.ValueTuple.dll
+C:\Users\yana\OneDrive\Рабочий стол\LAB_02\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\yana\OneDrive\Рабочий стол\LAB_02\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\yana\OneDrive\Рабочий стол\LAB_02\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\yana\OneDrive\Рабочий стол\LAB_02\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\yana\OneDrive\Рабочий стол\LAB_02\bin\Debug\System.Buffers.dll
+C:\Users\yana\OneDrive\Рабочий стол\LAB_02\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\yana\OneDrive\Рабочий стол\LAB_02\obj\Debug\LAB_02.csproj.SuggestedBindingRedirects.cache
+C:\Users\yana\OneDrive\Рабочий стол\LAB_02\obj\Debug\LAB_02.exe.config
+C:\Users\yana\OneDrive\Рабочий стол\LAB_02\obj\Debug\LAB_02.csproj.CopyComplete
